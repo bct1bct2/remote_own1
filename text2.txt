@@ -1,1 +1,2 @@
-this is added file2
+this is added file2 
+ADD comment1
